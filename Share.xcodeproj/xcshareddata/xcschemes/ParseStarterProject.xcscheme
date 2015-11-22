@@ -7,46 +7,46 @@
       buildImplicitDependencies = "YES">
       <BuildActionEntries>
          <BuildActionEntry
-            buildForTesting = "YES"
+            buildForTesting = "NO"
             buildForRunning = "YES"
             buildForProfiling = "YES"
             buildForArchiving = "YES"
-            buildForAnalyzing = "YES">
+            buildForAnalyzing = "NO">
             <BuildableReference
                BuildableIdentifier = "primary"
                BlueprintIdentifier = "81BA81441A49DA1800E65899"
-               BuildableName = "ParseStarterProject.app"
-               BlueprintName = "ParseStarterProject"
-               ReferencedContainer = "container:ParseStarterProject.xcodeproj">
+               BuildableName = "Share.app"
+               BlueprintName = "Share"
+               ReferencedContainer = "container:Share.xcodeproj">
             </BuildableReference>
          </BuildActionEntry>
       </BuildActionEntries>
    </BuildAction>
    <TestAction
+      buildConfiguration = "Debug"
       selectedDebuggerIdentifier = "Xcode.DebuggerFoundation.Debugger.LLDB"
       selectedLauncherIdentifier = "Xcode.DebuggerFoundation.Launcher.LLDB"
-      shouldUseLaunchSchemeArgsEnv = "YES"
-      buildConfiguration = "Debug">
+      shouldUseLaunchSchemeArgsEnv = "YES">
       <Testables>
       </Testables>
       <MacroExpansion>
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "81BA81441A49DA1800E65899"
-            BuildableName = "ParseStarterProject.app"
-            BlueprintName = "ParseStarterProject"
-            ReferencedContainer = "container:ParseStarterProject.xcodeproj">
+            BuildableName = "Share.app"
+            BlueprintName = "Share"
+            ReferencedContainer = "container:Share.xcodeproj">
          </BuildableReference>
       </MacroExpansion>
       <AdditionalOptions>
       </AdditionalOptions>
    </TestAction>
    <LaunchAction
+      buildConfiguration = "Debug"
       selectedDebuggerIdentifier = "Xcode.DebuggerFoundation.Debugger.LLDB"
       selectedLauncherIdentifier = "Xcode.DebuggerFoundation.Launcher.LLDB"
       launchStyle = "0"
       useCustomWorkingDirectory = "NO"
-      buildConfiguration = "Debug"
       ignoresPersistentStateOnLaunch = "NO"
       debugDocumentVersioning = "YES"
       debugServiceExtension = "internal"
@@ -56,28 +56,28 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "81BA81441A49DA1800E65899"
-            BuildableName = "ParseStarterProject.app"
-            BlueprintName = "ParseStarterProject"
-            ReferencedContainer = "container:ParseStarterProject.xcodeproj">
+            BuildableName = "Share.app"
+            BlueprintName = "Share"
+            ReferencedContainer = "container:Share.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
       <AdditionalOptions>
       </AdditionalOptions>
    </LaunchAction>
    <ProfileAction
+      buildConfiguration = "Release"
       shouldUseLaunchSchemeArgsEnv = "YES"
       savedToolIdentifier = ""
       useCustomWorkingDirectory = "NO"
-      buildConfiguration = "Release"
       debugDocumentVersioning = "YES">
       <BuildableProductRunnable
          runnableDebuggingMode = "0">
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "81BA81441A49DA1800E65899"
-            BuildableName = "ParseStarterProject.app"
-            BlueprintName = "ParseStarterProject"
-            ReferencedContainer = "container:ParseStarterProject.xcodeproj">
+            BuildableName = "Share.app"
+            BlueprintName = "Share"
+            ReferencedContainer = "container:Share.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
    </ProfileAction>
